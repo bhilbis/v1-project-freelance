@@ -1,10 +1,15 @@
-function App() {
+import { Routes, Route, Navigate } from 'react-router-dom';
+import LoginPage from './pages/LoginPage';
+import HomePage from './pages/HomePage';
 
+function App() {
   return (
     <>
-      <div className="bg-blue-500 text-9xl text-white p-4">
-        Testing
-      </div>
+      <Routes>
+        <Route path="/" element={<Navigate to="/login" />} />
+        <Route path="/login" element={<LoginPage />} />
+        <Route path="/home" element={<HomePage />} />
+      </Routes>
     </>
   )
 }

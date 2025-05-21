@@ -1,0 +1,95 @@
+/* Thin */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Thin.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Thin.ttf') format('truetype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-ThinItalic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-ThinItalic.ttf') format('truetype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Light.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-LightItalic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Regular.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Italic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Medium.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-MediumItalic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Bold.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-BoldItalic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Heavy */
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-Heavy.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-Heavy.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Ethos Nova';
+  src: url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/OTF/EthosNova-HeavyItalic.otf') format('opentype'),
+       url('/assets/fonts/Ethos-Nova-Font/Desktop Fonts/TTF/EthosNova-HeavyItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
